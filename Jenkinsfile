@@ -67,3 +67,4 @@ pipeline {
 test
 
 update done
+remove update
