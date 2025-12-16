@@ -5,7 +5,7 @@ pipeline {
 				label 'built-in'
 		}
 		
-		stages {
+		stages 
 		
 		
 			stage ('stage-1'){
